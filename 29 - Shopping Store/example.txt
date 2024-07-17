@@ -1,0 +1,18 @@
+TASKS:
+- Sidebar                   DONE
+- Featured Products         DONE
+- Cart
+- All Products
+- Single Product
+
+Featured Product:
+    - call API and show the products that have featured true.
+    - display those products
+    - add event listener to add to Cart
+
+Cart:
+    - add item to Cart
+    - increase/decrease amount in Cart
+    - increase/decrease item total count in Cart.
+    - prices of items
+    - total prices
